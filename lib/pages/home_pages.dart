@@ -15,7 +15,7 @@ class _HomePageState extends State<HomePage> {
         backgroundColor: Colors.blue,
         leading: const Icon(
           Icons.menu,
-          Color: Colors.white,
+          color: Colors.white,
         ),
       ),
     );
