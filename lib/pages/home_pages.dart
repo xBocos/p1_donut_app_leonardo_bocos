@@ -19,22 +19,27 @@ class _HomePageState extends State<HomePage> {
     //donut Tab
     const MyTab(
       iconPath: 'lib/icons/donut.png',
+      label: 'Donut',
     ),
     //burger Tab
     const MyTab(
       iconPath: 'lib/icons/burger.png',
+      label: 'Burger',
     ),
     //Smoothie Tab
     const MyTab(
       iconPath: 'lib/icons/smoothie.png',
+      label: 'Smoothie',
     ),
     //Pancake Tab
     const MyTab(
       iconPath: 'lib/icons/pancakes.png',
+      label: 'Pancake',
     ),
     //Pizza Tab
     const MyTab(
       iconPath: 'lib/icons/pizza.png',
+      label: 'Pizza',
     )
   ];
 
